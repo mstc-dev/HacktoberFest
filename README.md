@@ -54,6 +54,6 @@ We will merger your PR with repo and that would be all for 1st PR.
 # Don't stop here.
 This is beginning there is lot to explore do connect with us if you have any queries.
 
-<a href="https://mstc.now.sh/" style="display:inline;"><img src="https://scontent.famd1-1.fna.fbcdn.net/v/t1.0-9/43029707_899905310220189_2146652936900444160_n.jpg?_nc_cat=102&_nc_sid=174925&_nc_ohc=hwqCvEZGDfEAX8J9nhC&_nc_ht=scontent.famd1-1.fna&oh=22d7cfa4f36d15c73482fd028fa687f3&oe=5F7A015E" alt="MSTC" height="50px"></a>&nbsp; &nbsp;
+<a href="https://mstc.now.sh/" style="display:inline;"><img src="https://scontent.famd1-1.fna.fbcdn.net/v/t1.0-9/43029707_899905310220189_2146652936900444160_n.jpg?_nc_cat=102&_nc_sid=174925&_nc_ohc=hwqCvEZGDfEAX8J9nhC&_nc_ht=scontent.famd1-1.fna&oh=22d7cfa4f36d15c73482fd028fa687f3&oe=5F7A015E" alt="MSTC" height="40px"></a>&nbsp; &nbsp;
 <a href="mailto:microsoftclub@daiict.ac.in" style="display:inline;"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" alt="Gmail" height="30px"></a>
 
