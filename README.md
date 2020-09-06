@@ -54,6 +54,6 @@ We will merger your PR with repo and that would be all for 1st PR.
 # Don't stop here.
 This is beginning there is lot to explore do connect with us if you have any queries.
 
-<a href="https://mstc.now.sh/" style="display:inline;"><img src="https://instagram.famd1-2.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/118770561_656963961615365_6813426626822381729_n.jpg?_nc_ht=instagram.famd1-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=RYZNFRpg0m8AX8yp2tG&oh=e0befa8b0e77773d6a798a935eb6c35d&oe=5F7F0D4F&ig_cache_key=MjM5MTk3Njk2MTA5NjU3NzQ0Mg%3D%3D.2" alt="MSTC" height="30px"></a>&nbsp; &nbsp;
+<a href="https://mstc.now.sh/" style="display:inline;"><img src="https://scontent.cdninstagram.com/v/t51.2885-15/e15/s320x320/118843238_337287717464838_8003819427386642483_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=joJEJ7GkYVEAX-qXDS4&oh=da9c82ab6208d259a4db3c9fc70c27c7&oe=5F7C13EB&ig_cache_key=MjM5MTk4MDA1MzEyMTMwODYxNQ%3D%3D.2" alt="MSTC" height="30px"></a>&nbsp; &nbsp;
 <a href="mailto:microsoftclub@daiict.ac.in" style="display:inline;"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png" alt="Gmail" height="30px"></a>
 
