@@ -1,4 +1,4 @@
-# Hacktoberfest_firstPR
+## Hacktoberfest_firstPR
 This repository aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking forward to make your first contribution, follow the steps below.
 If you don't have git installed on your machine then, [install it]( https://help.github.com/articles/set-up-git/).
 
