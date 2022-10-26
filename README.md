@@ -1,3 +1,6 @@
+![Logo](img/e63ec8cedbf048adb3326ff5e617be97.png)
+
+
 # Hacktoberfest_firstPR
 This repository aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking forward to make your first contribution, follow the steps below.
 If you don't have git installed on your machine then, [install it]( https://help.github.com/articles/set-up-git/).
@@ -18,7 +21,7 @@ git clone https://github.com/mstc/mstc.git
 go to directory where you clonned the repo if you aren't already.
 Create branch using git checkout command
 ```
-git checkout -b add-dhyey
+git checkout -b add-dhyeys
 ```
 (we recommend you to name branch add-{your name} for making logical name)
 
